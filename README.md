@@ -20,6 +20,8 @@ end
 
 ## How to reproduce
 
+**Note**: Example made with Erlang `26.2.1`.
+
 Select Elixir 1.15.7, clean your `_build` folder and run the tests:
 
 ```shell
